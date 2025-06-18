@@ -1,0 +1,27 @@
+# Maven build directory
+target/
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.idea/
+*.iml
+out/
+.vscode/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# JAR and WAR files
+*.jar
+*.war
+
+# Environment files (if you ever add them)
+.env
